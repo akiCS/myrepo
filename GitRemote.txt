@@ -1,0 +1,8 @@
+ github account
+local system
+empty repo
+file add
+user name
+user email
+add username
+add password
